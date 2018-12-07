@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "antd": "latest",
+    "rc-select": "8.6.2",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "keywords": [],
+  "name": "diynamic-list",
+  "description": ""
+}
